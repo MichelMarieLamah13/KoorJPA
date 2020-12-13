@@ -11,4 +11,5 @@ Il est notamment reparti en **9 parties**:
 7. Mapping d'une relation d'héritage
 8. Exemple d'un mapping complet
 9. La Gestion des cascades
+
 Pour de l'aide vous pouvez voire ce site: https://koor.fr/Java/TutorialJEE/jee_jpa_introduction.wp
